@@ -1,0 +1,11 @@
+C:\Users\serkansipahi\source\repos\serkansipahiProject\serkansipahiProject\bin\Debug\serkansipahiProject.exe.config
+C:\Users\serkansipahi\source\repos\serkansipahiProject\serkansipahiProject\bin\Debug\serkansipahiProject.exe
+C:\Users\serkansipahi\source\repos\serkansipahiProject\serkansipahiProject\bin\Debug\serkansipahiProject.pdb
+C:\Users\serkansipahi\source\repos\serkansipahiProject\serkansipahiProject\obj\Debug\serkansipahiProject.csproj.AssemblyReference.cache
+C:\Users\serkansipahi\source\repos\serkansipahiProject\serkansipahiProject\obj\Debug\serkansipahiProject.Properties.Resources.resources
+C:\Users\serkansipahi\source\repos\serkansipahiProject\serkansipahiProject\obj\Debug\serkansipahiProject.csproj.GenerateResource.cache
+C:\Users\serkansipahi\source\repos\serkansipahiProject\serkansipahiProject\obj\Debug\serkansipahiProject.csproj.CoreCompileInputs.cache
+C:\Users\serkansipahi\source\repos\serkansipahiProject\serkansipahiProject\obj\Debug\serkansipahiProject.exe
+C:\Users\serkansipahi\source\repos\serkansipahiProject\serkansipahiProject\obj\Debug\serkansipahiProject.pdb
+C:\Users\serkansipahi\source\repos\serkansipahiProject\serkansipahiProject\obj\Debug\serkansipahiProject.Form1.resources
+C:\Users\serkansipahi\source\repos\serkansipahiProject\serkansipahiProject\obj\Debug\serkansipahiProject.Menuform.resources
